@@ -9,7 +9,6 @@
 - 🌱 **أتعلّم:** TypeScript و Next.js ومنظومة React
 - 💼 **الحالة:** أبحث عن فرصة عمل كـ Frontend Developer (عن بُعد أو دوام كامل)
 - 📫 **تواصل معي:** [ahmednashatissa@gmail.com](mailto:ahmednashatissa@gmail.com)
-<!-- أضف رابط LinkedIn هنا لما يجهز: - 🔗 **LinkedIn:** [اسمك](https://linkedin.com/in/...) -->
 
 </div>
 
@@ -39,15 +38,13 @@
 
 ### 🚀 أبرز المشاريع
 
-| المشروع | الوصف | التقنيات | الكود |
-| :--- | :--- | :--- | :--- |
-| **ahmed-issa-portfolio** | معرض أعمال شخصي عصري وسريع | React + Tailwind + Vite | [GitHub](https://github.com/dev-ahmedissa/ahmed-issa-portfolio) |
-| **cultural-waves** | موقع ثقافي تفاعلي ومتجاوب | HTML5 + CSS3 + Bootstrap + JS | [GitHub](https://github.com/dev-ahmedissa/cultural-waves) |
-| **powerfit-gym** | موقع ويب لنادي رياضي | HTML5 + Tailwind CSS | [GitHub](https://github.com/dev-ahmedissa/powerfit-gym) |
-| **bright-path-learning** | واجهة منصة تعليمية حديثة | HTML5 + CSS3 + Bootstrap | [GitHub](https://github.com/dev-ahmedissa/bright-path-learning) |
-| **AZ-Fashion-Line** | موقع متجر أزياء عصري | HTML5 + CSS3 | [GitHub](https://github.com/dev-ahmedissa/AZ-Fashion-Line) |
-
-<!-- لما ترفع المشاريع على Netlify/Vercel/GitHub Pages، أضف عمود "Live Demo" برابط حقيقي -->
+| المشروع | الوصف | التقنيات | الموقع | الكود |
+| :--- | :--- | :--- | :---: | :---: |
+| **ahmed-issa-portfolio** | معرض أعمال شخصي عصري وسريع | React + Tailwind + Vite | [🌐 الموقع](https://dev-ahmedissa.github.io/ahmed-issa-portfolio/) | [💻 الكود](https://github.com/dev-ahmedissa/ahmed-issa-portfolio) |
+| **cultural-waves** | موقع ثقافي تفاعلي ومتجاوب | HTML5 + CSS3 + Bootstrap + JS | [🌐 الموقع](https://dev-ahmedissa.github.io/cultural-waves/) | [💻 الكود](https://github.com/dev-ahmedissa/cultural-waves) |
+| **powerfit-gym** | موقع ويب لنادي رياضي | HTML5 + Tailwind CSS | [🌐 الموقع](https://dev-ahmedissa.github.io/powerfit-gym/) | [💻 الكود](https://github.com/dev-ahmedissa/powerfit-gym) |
+| **bright-path-learning** | واجهة منصة تعليمية حديثة | HTML5 + CSS3 + Bootstrap | [🌐 الموقع](https://dev-ahmedissa.github.io/bright-path-learning/) | [💻 الكود](https://github.com/dev-ahmedissa/bright-path-learning) |
+| **AZ-Fashion-Line** | موقع متجر أزياء عصري | HTML5 + CSS3 | [🌐 الموقع](https://dev-ahmedissa.github.io/AZ-Fashion-Line/) | [💻 الكود](https://github.com/dev-ahmedissa/AZ-Fashion-Line) |
 
 </div>
 
