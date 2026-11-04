@@ -17,10 +17,7 @@ Frontend Developer متخصص في بناء واجهات مستخدم حديثة
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### إحصائياتي
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-ahmedissa&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ahmedissa&layout=compact&theme=tokyonight)### أبرز مشاريعي
+### أبرز مشاريعي
 
 | المشروع | التقنيات | الرابط |
 |--------|---------|--------|
