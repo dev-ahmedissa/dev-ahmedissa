@@ -20,14 +20,13 @@ Frontend Developer متخصص في بناء واجهات مستخدم حديثة
 ### إحصائياتي
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-ahmedissa&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ahmedissa&layout=compact&theme=tokyonight)
-### أبرز مشاريعي
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ahmedissa&layout=compact&theme=tokyonight)### أبرز مشاريعي
 
 | المشروع | التقنيات | الرابط |
 |--------|---------|--------|
 | **ahmed-issa-portfolio** | React + Tailwind + Vite | [عرض الموقع](https://dev-ahmedissa.github.io/ahmed-issa-portfolio/) |
-| **AZ-Fashion-Line** | HTML5 + CSS3 | [الكود](https://github.com/dev-ahmedissa/AZ-Fashion-Line) |
-| **bright-path-learning** | HTML5 + CSS3 + Bootstrap | [الكود](https://github.com/dev-ahmedissa/bright-path-learning) |
 | **cultural-waves** | HTML5 + CSS3 + Bootstrap + JavaScript | [الكود](https://github.com/dev-ahmedissa/cultural-waves) |
-| **happy-bricks** | HTML4 + CSS2 | [الكود](https://github.com/dev-ahmedissa/happy-bricks) |
 | **powerfit-gym** | HTML5 + Tailwind | [الكود](https://github.com/dev-ahmedissa/powerfit-gym) |
+| **bright-path-learning** | HTML5 + CSS3 + Bootstrap | [الكود](https://github.com/dev-ahmedissa/bright-path-learning) |
+| **AZ-Fashion-Line** | HTML5 + CSS3 | [الكود](https://github.com/dev-ahmedissa/AZ-Fashion-Line) |
+| **happy-bricks** | HTML4 + CSS2 | [الكود](https://github.com/dev-ahmedissa/happy-bricks) |
