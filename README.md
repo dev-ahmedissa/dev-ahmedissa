@@ -2,8 +2,8 @@
 
 Frontend Developer متخصص في بناء واجهات مستخدم حديثة وسريعة.
 
--🔭 حالياً أطور محفظتي (Portfolio) باستخدام React + Tailwind
-- 🌱 أتعلم وأطور مهاراتي في **JavaScript و React**
+- 🔭 حالياً أطور محفظتي (Portfolio) باستخدام React + Tailwind
+- 🌱 أتعلم وأطور مهاراتي في JavaScript و React
 - 💼 أبحث عن فرص عمل كـ Frontend Developer
 - 📫 تواصل معي: [ahmednashatissa@gmail.com](mailto:ahmednashatissa@gmail.com)
 
@@ -19,8 +19,8 @@ Frontend Developer متخصص في بناء واجهات مستخدم حديثة
 
 ### إحصائياتي
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-ahmedissa&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ahmedissa&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-ahmedissa&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ahmedissa&layout=compact&theme=tokyonight)
 
 ### أبرز مشاريعي
 
@@ -29,6 +29,6 @@ Frontend Developer متخصص في بناء واجهات مستخدم حديثة
 | **ahmed-issa-portfolio** | محفظتي الشخصية بـ React + Tailwind + Vite | [عرض المشروع](https://dev-ahmedissa.github.io/ahmed-issa-portfolio/) |
 | **AZ-Fashion-Line** | موقع أزياء مبني بـ HTML و CSS | [الكود](https://github.com/dev-ahmedissa/AZ-Fashion-Line) |
 | **bright-path-learning** | موقع تعليمي | [الكود](https://github.com/dev-ahmedissa/bright-path-learning) |
-| **cultural-waves** | موقع ثقافي لعرض المنتجات التقليدية (مثل الثوب الفلسطيني) | [الكود](https://github.com/dev-ahmedissa/cultural-waves) |
+| **cultural-waves** | موقع ثقافي لعرض المنتجات التقليدية | [الكود](https://github.com/dev-ahmedissa/cultural-waves) |
 | **happy-bricks** | موقع ترفيهي / ألعاب | [الكود](https://github.com/dev-ahmedissa/happy-bricks) |
 | **powerfit-gym** | موقع نادي رياضي | [الكود](https://github.com/dev-ahmedissa/powerfit-gym) |
