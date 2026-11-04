@@ -21,14 +21,13 @@ Frontend Developer متخصص في بناء واجهات مستخدم حديثة
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-ahmedissa&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ahmedissa&layout=compact&theme=tokyonight)
-
 ### أبرز مشاريعي
 
-| المشروع | الوصف | الرابط |
-|--------|------|--------|
-| **ahmed-issa-portfolio** | محفظتي الشخصية بـ React + Tailwind + Vite | [عرض المشروع](https://dev-ahmedissa.github.io/ahmed-issa-portfolio/) |
-| **AZ-Fashion-Line** | موقع أزياء مبني بـ HTML و CSS | [الكود](https://github.com/dev-ahmedissa/AZ-Fashion-Line) |
-| **bright-path-learning** | موقع تعليمي | [الكود](https://github.com/dev-ahmedissa/bright-path-learning) |
-| **cultural-waves** | موقع ثقافي لعرض المنتجات التقليدية | [الكود](https://github.com/dev-ahmedissa/cultural-waves) |
-| **happy-bricks** | موقع ترفيهي / ألعاب | [الكود](https://github.com/dev-ahmedissa/happy-bricks) |
-| **powerfit-gym** | موقع نادي رياضي | [الكود](https://github.com/dev-ahmedissa/powerfit-gym) |
+| المشروع | التقنيات | الرابط |
+|--------|---------|--------|
+| **ahmed-issa-portfolio** | React + Tailwind + Vite | [عرض الموقع](https://dev-ahmedissa.github.io/ahmed-issa-portfolio/) |
+| **AZ-Fashion-Line** | HTML5 + CSS3 | [الكود](https://github.com/dev-ahmedissa/AZ-Fashion-Line) |
+| **bright-path-learning** | HTML5 + CSS3 + Bootstrap | [الكود](https://github.com/dev-ahmedissa/bright-path-learning) |
+| **cultural-waves** | HTML5 + CSS3 + Bootstrap + JavaScript | [الكود](https://github.com/dev-ahmedissa/cultural-waves) |
+| **happy-bricks** | HTML4 + CSS2 | [الكود](https://github.com/dev-ahmedissa/happy-bricks) |
+| **powerfit-gym** | HTML5 + Tailwind | [الكود](https://github.com/dev-ahmedissa/powerfit-gym) |
