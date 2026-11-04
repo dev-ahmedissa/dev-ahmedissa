@@ -2,7 +2,7 @@
 
 Frontend Developer متخصص في بناء واجهات مستخدم حديثة وسريعة.
 
-- 🔭 حالياً أشتغل على تطوير محفظتي الشخصية باستخدام **React + Tailwind**
+-🔭 حالياً أطور محفظتي (Portfolio) باستخدام React + Tailwind
 - 🌱 أتعلم وأطور مهاراتي في **JavaScript و React**
 - 💼 أبحث عن فرص عمل كـ Frontend Developer
 - 📫 تواصل معي: [ahmednashatissa@gmail.com](mailto:ahmednashatissa@gmail.com)
