@@ -7,7 +7,7 @@
 
 - 🔭 **حالياً:** أطوّر معرض أعمالي الشخصي باستخدام React + Tailwind CSS + Vite
 - 🌱 **أتعلّم:** TypeScript و Next.js ومنظومة React
-- 💼 **الحالة:** أبحث عن فرصة عمل كـ Frontend Developer (عن بُعد أو دوام كامل)
+- 💼 **الحالة:** متاح للعمل الحر (Freelance) عن بُعد، في بناء مواقع وواجهات React وTailwind
 - 📫 **تواصل معي:** [ahmednashatissa@gmail.com](mailto:ahmednashatissa@gmail.com)
 
 </div>
@@ -66,3 +66,5 @@
 ---
 
 <p align="center">⭐ إذا أعجبتك مشاريعي، يسعدني دعمك بـ Star على المستودعات!</p>
+
+<p align="center">💬 عندك مشروع؟ تواصل معي وخلينا نحوّل فكرتك لموقع حقيقي!</p>
