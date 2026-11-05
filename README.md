@@ -45,6 +45,7 @@
 | **powerfit-gym** | موقع ويب لنادي رياضي | HTML5 + Tailwind CSS | [🌐 الموقع](https://dev-ahmedissa.github.io/powerfit-gym/) | [💻 الكود](https://github.com/dev-ahmedissa/powerfit-gym) |
 | **bright-path-learning** | واجهة منصة تعليمية حديثة | HTML5 + CSS3 + Bootstrap | [🌐 الموقع](https://dev-ahmedissa.github.io/bright-path-learning/) | [💻 الكود](https://github.com/dev-ahmedissa/bright-path-learning) |
 | **AZ-Fashion-Line** | موقع متجر أزياء عصري | HTML5 + CSS3 | [🌐 الموقع](https://dev-ahmedissa.github.io/AZ-Fashion-Line/) | [💻 الكود](https://github.com/dev-ahmedissa/AZ-Fashion-Line) |
+| **happy-bricks** | موقع متجر ألعاب وملابس ومستلزمات أطفال مع جدول أسعار وأقسام متعددة | HTML4 + CSS2 | [🌐 الموقع](https://dev-ahmedissa.github.io/happy-bricks/) | [💻 الكود](https://github.com/dev-ahmedissa/happy-bricks) |
 
 </div>
 
