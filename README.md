@@ -1,14 +1,29 @@
 <div dir="rtl">
 
 # أهلاً، أنا أحمد عيسى 👋
-### Frontend Developer | React.js & Modern Web Technologies
+### Frontend Developer | React & Tailwind CSS
 
-مطوّر واجهات أمامية (Frontend Developer) شغوف ببناء واجهات مستخدم حديثة، سريعة، ومتجاوبة بالكامل.
+مطوّر واجهات أمامية (Frontend Developer) أبني مواقع وواجهات حديثة، سريعة، ومتجاوبة بالكامل.
 
 - 🔭 **حالياً:** أطوّر معرض أعمالي الشخصي باستخدام React + Tailwind CSS + Vite
-- 🌱 **أتعلّم:** TypeScript و Next.js ومنظومة React
-- 💼 **الحالة:** متاح للعمل الحر (Freelance) عن بُعد، في بناء مواقع وواجهات React وTailwind
+- 🌱 **أتعلّم:** TypeScript و Next.js
+- 💼 **الحالة:** متاح للعمل الحر (Freelance) عن بُعد
 - 📫 **تواصل معي:** [ahmednashatissa@gmail.com](mailto:ahmednashatissa@gmail.com)
+- 🔗 **LinkedIn:** [Ahmed Issa](https://www.linkedin.com/in/ahmed-issa-62665b400/)
+- 🌐 **البورتفوليو:** [ahmed-issa-portfolio](https://dev-ahmedissa.github.io/ahmed-issa-portfolio/)
+
+</div>
+
+---
+
+<div dir="rtl">
+
+### 💼 خدماتي
+
+- 🖥️ بناء مواقع وصفحات هبوط (Landing Pages) متجاوبة
+- 🎨 تحويل التصاميم إلى كود نظيف وجاهز للعمل
+- ⚛️ واجهات React و Tailwind CSS
+- 🛒 مواقع متاجر إلكترونية بسلة وبحث وتسجيل دخول
 
 </div>
 
@@ -40,12 +55,12 @@
 
 | المشروع | الوصف | التقنيات | الموقع | الكود |
 | :--- | :--- | :--- | :---: | :---: |
-| **ahmed-issa-portfolio** | معرض أعمال شخصي عصري وسريع | React + Tailwind + Vite | [🌐 الموقع](https://dev-ahmedissa.github.io/ahmed-issa-portfolio/) | [💻 الكود](https://github.com/dev-ahmedissa/ahmed-issa-portfolio) |
-| **cultural-waves** | موقع ثقافي تفاعلي ومتجاوب | HTML5 + CSS3 + Bootstrap + JS | [🌐 الموقع](https://dev-ahmedissa.github.io/cultural-waves/) | [💻 الكود](https://github.com/dev-ahmedissa/cultural-waves) |
-| **powerfit-gym** | موقع ويب لنادي رياضي | HTML5 + Tailwind CSS | [🌐 الموقع](https://dev-ahmedissa.github.io/powerfit-gym/) | [💻 الكود](https://github.com/dev-ahmedissa/powerfit-gym) |
-| **bright-path-learning** | واجهة منصة تعليمية حديثة | HTML5 + CSS3 + Bootstrap | [🌐 الموقع](https://dev-ahmedissa.github.io/bright-path-learning/) | [💻 الكود](https://github.com/dev-ahmedissa/bright-path-learning) |
-| **AZ-Fashion-Line** | موقع متجر أزياء عصري | HTML5 + CSS3 | [🌐 الموقع](https://dev-ahmedissa.github.io/AZ-Fashion-Line/) | [💻 الكود](https://github.com/dev-ahmedissa/AZ-Fashion-Line) |
-| **happy-bricks** | موقع متجر ألعاب وملابس ومستلزمات أطفال مع جدول أسعار وأقسام متعددة | HTML4 + CSS2 | [🌐 الموقع](https://dev-ahmedissa.github.io/happy-bricks/) | [💻 الكود](https://github.com/dev-ahmedissa/happy-bricks) |
+| **ahmed-issa-portfolio** | معرض أعمالي الشخصي، متجاوب مع كل الشاشات | React + Tailwind + Vite | [🌐 الموقع](https://dev-ahmedissa.github.io/ahmed-issa-portfolio/) | [💻 الكود](https://github.com/dev-ahmedissa/ahmed-issa-portfolio) |
+| **cultural-waves** | متجر إلكتروني للمنتجات التراثية الفلسطينية، بتسجيل دخول وبحث وسلة | HTML5 + CSS3 + Bootstrap + JS | [🌐 الموقع](https://dev-ahmedissa.github.io/cultural-waves/) | [💻 الكود](https://github.com/dev-ahmedissa/cultural-waves) |
+| **bright-path-learning** | واجهة منصة تعليمية لدورات تطوير الويب، متجاوبة | HTML5 + CSS3 + Bootstrap | [🌐 الموقع](https://dev-ahmedissa.github.io/bright-path-learning/) | [💻 الكود](https://github.com/dev-ahmedissa/bright-path-learning) |
+| **powerfit-gym** | موقع نادي رياضي بأقسام الخدمات والمدربين، متجاوب | HTML5 + Tailwind CSS | [🌐 الموقع](https://dev-ahmedissa.github.io/powerfit-gym/) | [💻 الكود](https://github.com/dev-ahmedissa/powerfit-gym) |
+| **AZ-Fashion-Line** | موقع متجر أزياء عصري (تصميم للكمبيوتر) | HTML5 + CSS3 | [🌐 الموقع](https://dev-ahmedissa.github.io/AZ-Fashion-Line/) | [💻 الكود](https://github.com/dev-ahmedissa/AZ-Fashion-Line) |
+| **happy-bricks** | موقع متجر ألعاب أطفال، أول مشروع لي (تصميم للكمبيوتر) | HTML4 + CSS2 | [🌐 الموقع](https://dev-ahmedissa.github.io/happy-bricks/) | [💻 الكود](https://github.com/dev-ahmedissa/happy-bricks) |
 
 </div>
 
