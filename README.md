@@ -9,8 +9,9 @@
 - 🌱 **أتعلّم:** TypeScript و Next.js
 - 💼 **الحالة:** متاح للعمل الحر (Freelance) عن بُعد
 - 📫 **تواصل معي:** [ahmednashatissa@gmail.com](mailto:ahmednashatissa@gmail.com)
-- 🔗 **LinkedIn:** [Ahmed Issa](https://www.linkedin.com/in/ahmed-issa-62665b400/)
+- 🔗 **LinkedIn:** [Ahmed Issa](https://www.linkedin.com/in/ahmedissa-dev/)
 - 🌐 **البورتفوليو:** [ahmed-issa-portfolio](https://dev-ahmedissa.github.io/ahmed-issa-portfolio/)
+- 📄 **السيرة الذاتية:** [تحميل CV](https://github.com/dev-ahmedissa/dev-ahmedissa/blob/main/Ahmed-Issa-CV-Public.pdf)
 
 </div>
 
@@ -63,6 +64,8 @@
 | **happy-bricks** | موقع متجر ألعاب أطفال، أول مشروع لي (تصميم للكمبيوتر) | HTML4 + CSS2 | [🌐 الموقع](https://dev-ahmedissa.github.io/happy-bricks/) | [💻 الكود](https://github.com/dev-ahmedissa/happy-bricks) |
 
 </div>
+
+> Some projects were migrated from my previous GitHub account.
 
 ---
 
